@@ -33,8 +33,8 @@ namespace AITECOUI
 
         private void frmMainUI_Load(object sender, EventArgs e)
         {
-            txtLLM.Text = "https://249e-35-236-212-91.ngrok-free.app/generate_response";
-            txtOpenAI.Text = "https://249e-35-236-212-91.ngrok-free.app/generate_response";
+            txtLLM.Text = "https://949c-34-125-116-2.ngrok-free.app/generate_response";
+            txtOpenAI.Text = "https://80dd-35-236-212-91.ngrok-free.app/generate_response";
         }
 
         private async void btnGenerateCodeFile_Click(object sender, EventArgs e)
@@ -88,18 +88,25 @@ namespace AITECOUI
             rtbOutput.Text = aiResult;
         }
 
-        private async void lblGenerateBtn_Click(object sender, EventArgs e)
+        private void lblGenerateBtn_Click(object sender, EventArgs e)
         {
-            string content = GenerateContentFromAI();
+            try
+            {
+                string content = GenerateContentFromAI();
 
-            if (rbOpenAI.Checked)
-            {
-                processAIResult(content);
+                if (rbOpenAI.Checked)
+                {
+                    processAIResult(content);
+                }
+                if (rbLLM.Checked)
+                {
+                    processAIResult(content, '$');
+                }
             }
-            if (rbLLM.Checked)
+            catch (Exception ex)
             {
-                processAIResult(content, '$');
-            }
+                MessageBox.Show(ex.Message);
+            }            
         }
 
         private string GenerateContentFromAI()
