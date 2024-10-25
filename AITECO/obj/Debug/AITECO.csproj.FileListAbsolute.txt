@@ -1,0 +1,54 @@
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.dll
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.pdb
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.pkgdef
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.vsix
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\extension.vsixmanifest
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.AssemblyReference.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\_EmptyResource.resources
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.GenerateResource.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECOPackage.cto
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\resources.json
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\ctoFiles.json
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\_EmptyResource.resources.original
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\mergeCto.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.CoreCompileInputs.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.dll
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.pdb
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.pkgdef
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.latest.pkgdef
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\extension.vsixmanifest
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\files.json
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\createTemplateManifests.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECOUI.exe
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECOUI.pdb
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECOUI.exe.config
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.Up2Date
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\VSCT.read.1.tlog
+C:\Acumatica\Hackaton-2024\AITECO\AITECO\obj\Debug\VSCT.write.1.tlog
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.dll
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.pdb
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.pkgdef
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECO.vsix
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\extension.vsixmanifest
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECOUI.exe
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECOUI.pdb
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\bin\Debug\AITECOUI.exe.config
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.AssemblyReference.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\_EmptyResource.resources
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.GenerateResource.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECOPackage.cto
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\resources.json
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\ctoFiles.json
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\_EmptyResource.resources.original
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\mergeCto.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.CoreCompileInputs.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.csproj.Up2Date
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.dll
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.pdb
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.pkgdef
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\AITECO.latest.pkgdef
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\extension.vsixmanifest
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\files.json
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECO\obj\Debug\createTemplateManifests.cache

@@ -1,0 +1,26 @@
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\bin\Debug\AITECOUI.exe.config
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\bin\Debug\AITECOUI.exe
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\bin\Debug\AITECOUI.pdb
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.AssemblyReference.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.Properties.Resources.resources
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.GenerateResource.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.CoreCompileInputs.cache
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.exe
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.pdb
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.frmMainUI.resources
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\bin\Debug\Newtonsoft.Json.dll
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\bin\Debug\Newtonsoft.Json.xml
+C:\Acumatica\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.Up2Date
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\bin\Debug\AITECOUI.exe.config
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\bin\Debug\AITECOUI.exe
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\bin\Debug\AITECOUI.pdb
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.AssemblyReference.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.frmMainUI.resources
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.Properties.Resources.resources
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.GenerateResource.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.CoreCompileInputs.cache
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.csproj.Up2Date
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.exe
+C:\Users\kosala.samarasinghe\Downloads\Hackaton-2024 5\Hackaton-2024\AITECO\AITECOUI\obj\Debug\AITECOUI.pdb

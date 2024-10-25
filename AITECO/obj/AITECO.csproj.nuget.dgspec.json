@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECO\\AITECO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECOUI\\AITECOUI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECOUI\\AITECOUI.csproj",
+        "projectName": "AITECOUI",
+        "projectPath": "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECOUI\\AITECOUI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECO\\AITECO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECO\\AITECO.csproj",
+        "projectName": "AITECO",
+        "projectPath": "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECO\\AITECO.csproj",
+        "packagesPath": "C:\\Users\\kosala.samarasinghe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECO\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\kosala.samarasinghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECOUI\\AITECOUI.csproj": {
+                "projectPath": "C:\\Users\\kosala.samarasinghe\\Downloads\\Hackaton-2024 5\\Hackaton-2024\\AITECO\\AITECOUI\\AITECOUI.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.9.3184, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
